@@ -57,6 +57,12 @@
 			<artifactId>commons-lang3</artifactId>
 			<version>3.18.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.zerodhatech.kiteconnect/kiteconnect -->
+		<dependency>
+			<groupId>com.zerodhatech.kiteconnect</groupId>
+			<artifactId>kiteconnect</artifactId>
+			<version>3.5.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
